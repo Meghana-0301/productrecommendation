@@ -1,7 +1,7 @@
 # productrecommendation
 This is a simple Product recommendation System by using Django and Django Rest Framework.
 
-Project Name : productrecommendation
+Project Name : productrecommendation ,
 App Name : Shop
 
 Step-1 :Install Django and Django Rest Framework.
