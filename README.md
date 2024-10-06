@@ -8,7 +8,7 @@ Step-1 :Install Django and Django Rest Framework.
 
 Step-2 :Create Django project and app.
 
-Step-3 :Add the shop app to installed app  in productrecommendation/settings.py.
+Step-3 :Add the shop app to installed app  in productrecommendation/settings.py and apply the Django migrations to create the tables.
 
 Step-4 :Creating a Model, Product and Order in models.py
 
